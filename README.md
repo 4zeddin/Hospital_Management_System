@@ -24,7 +24,7 @@
   <img width="959" alt="Doctor Dashboard" src="https://github.com/user-attachments/assets/cc0466ec-3f0e-46b9-83b4-64c54f7c0a30">
 </p>
 
-### alert and conformation management
+### alerts and conformations management
 
 ![2](https://github.com/user-attachments/assets/13f125b3-3794-4aa9-908f-72144dba8ec6)
 
