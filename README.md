@@ -23,3 +23,8 @@
   <img width="959" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/9bc12c74-02d2-4de7-8993-b0bcdc94420b">
   <img width="959" alt="Doctor Dashboard" src="https://github.com/user-attachments/assets/cc0466ec-3f0e-46b9-83b4-64c54f7c0a30">
 </p>
+
+### alert and conformation management
+
+![2](https://github.com/user-attachments/assets/13f125b3-3794-4aa9-908f-72144dba8ec6)
+
