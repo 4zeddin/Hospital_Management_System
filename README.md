@@ -1,5 +1,9 @@
 # clinic Management System (One Health)
 
+## Tech Stack
+
+Vue.js, Bootstrap, CSS, JavaScript, Laravel with Jetstream, MySql, Redis
+
 ![Project Overview](https://github.com/user-attachments/assets/b5e5c5ca-ca6b-4845-b312-9cc21cdd416e)
 
 ## Features
