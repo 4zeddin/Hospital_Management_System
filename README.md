@@ -20,10 +20,9 @@
 ### Multi-Auth with Roles and Permissions
 <img width="605" alt="Screenshot 2024-11-04 145848" src="https://github.com/user-attachments/assets/d395f08f-8b7c-42a9-9e20-871e0d07ae72">
 
-![Multi-Auth with Roles and Permissions](https://github.com/user-attachments/assets/fafb7718-559b-409a-9923-927f2d13ae76)
-
 ### appointement management
 login required and cant pick dates thats already picked
+![Multi-Auth with Roles and Permissions](https://github.com/user-attachments/assets/fafb7718-559b-409a-9923-927f2d13ae76)
 
 ### Admin & Doctor Dashboards
 
