@@ -26,8 +26,6 @@ Implement multi-authentication with role-based access, allowing administrators, 
 Patients can schedule appointments easily while avoiding conflicts with already-booked times. A login is required to access the appointment features.
 
 <img width="605" alt="Appointment Management" src="https://github.com/user-attachments/assets/d395f08f-8b7c-42a9-9e20-871e0d07ae72">
-<img width="725" alt="Screenshot 2024-11-04 231755" src="https://github.com/user-attachments/assets/343f5c76-27f9-4236-89fe-b532292d7a32">
-
 
 ### 4. Admin & Doctor Dashboards
 Custom dashboards provide administrators and doctors with dedicated views to manage appointments, users, and clinic data.
@@ -41,6 +39,7 @@ Custom dashboards provide administrators and doctors with dedicated views to man
 Integrated alert and confirmation system to notify users about appointments, cancellations, and other actions, enhancing communication efficiency.
 
 ![Alerts and Confirmations](https://github.com/user-attachments/assets/13f125b3-3794-4aa9-908f-72144dba8ec6)
+<img width="725" alt="Screenshot 2024-11-04 231755" src="https://github.com/user-attachments/assets/343f5c76-27f9-4236-89fe-b532292d7a32">
 
 ### 6. Redis for Caching
 Uses Redis for caching to improve performance by storing frequently accessed data, reducing load times and improving the overall user experience.
