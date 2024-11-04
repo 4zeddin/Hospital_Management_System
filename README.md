@@ -1,7 +1,9 @@
-# clinic Management System (One Health)
+# Clinic Management System (One Health)
 
-- **Tech Stack**: Vue.js/blades, Bootstrap, CSS, JavaScript, Laravel with Jetstream, MySql, Redis
-
+## Tech Stack:
+  - **Frontend**: Vue.js, Blade templates, Bootstrap, CSS, JavaScript
+  - **Backend**: Laravel with Jetstream, MySQL, Redis
+  - **conception**: UML
 
 ![Project Overview](https://github.com/user-attachments/assets/b5e5c5ca-ca6b-4845-b312-9cc21cdd416e)
 
@@ -15,16 +17,16 @@
 </p>
 
 ### Multi-Auth System with Roles and Permissions
+
 ![Multi-Auth with Roles and Permissions](https://github.com/user-attachments/assets/fafb7718-559b-409a-9923-927f2d13ae76)
 
-### Admin & Doctor Dashboard
+### Admin & Doctor Dashboards
 
 <p align="center">
   <img width="959" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/9bc12c74-02d2-4de7-8993-b0bcdc94420b">
   <img width="959" alt="Doctor Dashboard" src="https://github.com/user-attachments/assets/cc0466ec-3f0e-46b9-83b4-64c54f7c0a30">
 </p>
 
-### alerts and conformations management
+### Alerts and Confirmations Management
 
-![2](https://github.com/user-attachments/assets/13f125b3-3794-4aa9-908f-72144dba8ec6)
-
+![Alerts and Confirmations](https://github.com/user-attachments/assets/13f125b3-3794-4aa9-908f-72144dba8ec6)
