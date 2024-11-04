@@ -17,7 +17,7 @@
   <img width="272" alt="Responsive Layout" src="https://github.com/user-attachments/assets/672c11d1-6713-4506-9c91-f1f18af3126e">
 </p>
 
-### Multi-Auth System with Roles and Permissions
+### Multi-Auth with Roles and Permissions
 
 ![Multi-Auth with Roles and Permissions](https://github.com/user-attachments/assets/fafb7718-559b-409a-9923-927f2d13ae76)
 
