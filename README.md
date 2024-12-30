@@ -2,7 +2,7 @@
 
 ## Tech Stack
 - **Frontend**: Vue.js, Blade Templates, Bootstrap, CSS, JavaScript
-- **Backend**: Laravel with Jetstream, MySQL, Redis
+- **Backend**: Laravel, MySQL, Redis
 - **Design & Architecture**: UML Diagrams for system modeling
 
 ---
